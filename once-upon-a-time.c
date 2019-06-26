@@ -19,16 +19,20 @@ int main(int argc, char *argv[]) {
 	printf("\nYou: "); scanf('%c', reply);
 
 	if (reply == "me") {
-		/*code here*/
+		/*Rahul Kumar - I know python not c/cpp but still rule is rule*/
+		printf("\nPeter: Me, who?"); /*Rahul Kumar*/
 	} else if (reply == "ghost") {
 		/*code here*/
-
+		printf("\nPeter: Ok if you are ghost then I'm not going open the door?"); /*Rahul Kumar*/
 	} else if (reply == "police") {
 		/*code here*/
-
+		printf("\nPeter: Just Wait for a while, coming"); /*Rahul Kumar*/
+	} else if (reply == "your son") {
+		/*code here*/
+		printf("\nPeter: Ok love, coming"); /*Rahul Kumar*/
 	} else {
 		/*code here*/
-
+		printf("\nPeter: I'm busy, please come after sometime if not important"); /*Rahul Kumar*/
 	}
 
 	return 0;
