@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 	printf("\nYou: "); scanf('%c', reply);
 
 	if (reply == "me") {
-
+		/*code here*/
 	} else if (reply == "ghost") {
 		/*code here*/
 
